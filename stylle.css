@@ -1,0 +1,74 @@
+.contact-details {
+    text-align: left;
+    font-size: 18px;
+   
+    position: absolute;
+    top: 200px;
+    left: 10;
+width: 10;
+}
+
+
+.contact-details img{
+
+    width: 100px;
+    height: auto;
+
+}
+
+
+
+
+
+.phone-details img{
+
+    width: 100px;
+    height: auto;
+
+}
+
+
+
+
+.phone-details {
+    position: absolute;
+    
+    top: 200px; right: 600px;
+    
+    text-align: center;
+    font-size: 18px;
+bottom: 10;
+
+}
+
+.adress-details{
+position: absolute;
+    text-align: right;
+    font-size: 20px;
+    top: 200px; right: 100px;
+   
+}
+
+.adress-details img {
+
+    width: 70px;
+    height: auto;
+}
+
+
+h2{
+
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
